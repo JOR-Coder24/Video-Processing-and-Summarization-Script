@@ -40,7 +40,7 @@ pip install moviepy SpeechRecognition transformers python-docx pillow
 To run the script, simply execute the Python file from the command line:
 
 ```bash
-python video_processing.py
+python video_summarizer.py
 ```
 
 The script will prompt you to choose one of the following options:
